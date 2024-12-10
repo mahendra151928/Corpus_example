@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with black color. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Background and primary colors for dark mode -->
+
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item> <!-- Text/Icon color on primary -->
+        <item name="colorSurface">@color/black</item>
+        <item name="colorOnSurface">@color/white</item> <!-- Text/Icon color on surface -->
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+
+    <!-- Extend the base theme -->
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+</resources>

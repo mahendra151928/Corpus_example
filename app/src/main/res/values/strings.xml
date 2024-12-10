@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="login_button">Login</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_message">Welcome to Our App</string>
+
+    <!-- Home Page -->
+    <string name="home_tab">Home</string>
+    <string name="about_tab">About</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_mobile">Invalid mobile number. Please try again.</string>
+    <string name="error_invalid_otp">Invalid OTP. Please try again.</string>
+    <string name="image">Image</string>
+    <!-- General -->
+
+</resources>
